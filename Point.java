@@ -34,7 +34,7 @@ public class Point implements shape
 	}
 }
 
-
+//12333r24
 
 
 
